@@ -6,9 +6,15 @@ Los programas utilizados para la realizar la tesina "Validación y reformulació
 Un ambiente en PYTHON 3 con:
 
 numpy
+
 glob
+
 pandas
+
 pandas.compat
+
 matplotlib.pyplot
+
 astropy.table
+
 csv
